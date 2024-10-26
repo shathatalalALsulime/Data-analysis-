@@ -30,3 +30,7 @@ You can install these packages using the command:
 ```bash
 pip install -r requirements.txt
 
+
+### Notes:
+- The link to download the Amazon Fine Food Reviews dataset is included.
+- Feel free to modify any section to better fit your project's specifics or additional insights.
